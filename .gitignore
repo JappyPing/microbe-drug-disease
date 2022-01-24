@@ -1,0 +1,5 @@
+./Drug_Disease_Prediction/ten_fold_predict_result
+./Drug_Disease_Prediction/__pycache__
+./Drug_Disease_Prediction/Models/__pycache__
+./Drug_Disease_Prediction/Models/DRHGCN/__pycache__
+./Drug_Disease_Prediction/Models/DRHGCN/DRHGCN/__pycache__

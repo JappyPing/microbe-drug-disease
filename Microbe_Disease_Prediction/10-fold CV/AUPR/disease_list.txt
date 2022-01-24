@@ -1,0 +1,39 @@
+Allergic asthma
+Allergic sensitization
+Allergy
+Asthma
+Atopic dermatitis
+Atopic sensitisation
+Atopy
+Bacterial Vaginosis
+Clostridium difficile infection(CDI)
+Colon cancer
+Colorectal carcinoma
+Constipation Irritable bowel syndrome(IBS)
+COPD
+Crohn's disease(CD)
+Cystic fibrosis
+Diarrhea Irritable bowel syndrome(IBS)
+Eczema
+Gastric and duodenal ulcer
+Gastro-oesophageal reflux
+Guttate psoriasis
+Ileal Crohn's disease(CD)
+Infectious colitis
+Inflammatory bowel disease(IBD)
+Irritable bowel syndrome(IBS)
+Kidney stones
+Liver cirrhosis
+Necrotizing Enterocolitis
+New-onset untreated rheumatoid arthrits
+Obesity
+Periodontal
+Psoriasis
+Recurrent wheeze
+Rheumatoid arthrits
+Skin and mucosal infections
+Systemic inflammatory response syndrome
+Type 1 diabetes
+Type 2 diabetes
+Ulcerative colitis
+Whipple's disease
