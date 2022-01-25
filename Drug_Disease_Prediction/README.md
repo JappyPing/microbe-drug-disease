@@ -15,7 +15,7 @@ Benchmarking the methods of DRHGCN, BNNR, DR2DI, MBiRW and MSBMF for the Drug-Di
 * xlrd
 ## Usage
 ```
-cd Durg_Disease_prediciton
+cd Durg_Disease_Prediciton
 python run_DRHGCN.py --dataset_name Fdataset --epochs 400
 ```
 ## Reference
