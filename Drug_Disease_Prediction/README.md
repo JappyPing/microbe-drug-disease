@@ -1,7 +1,6 @@
-
 # Description
 
-Benchmarking the methods of DRHGCN, BNNR, DR2DI, MBiRW and MSBMF for the drug–disease association prediction
+Benchmarking the methods of DRHGCN, BNNR, DR2DI, MBiRW and MSBMF for the Drug-Disease Associations (DgDsAs) prediction.
 
 # DRHGCN
 ## Dependencies
